@@ -2,7 +2,7 @@
 
 ## How to Create
 
-
+Fork this repo and create a new folder with your username, in there you create your own files as the endpoint should be called then, best you create from the template, when you think you are ready create a pullrequest
 
 ## Author
 
