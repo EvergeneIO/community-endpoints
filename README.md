@@ -6,7 +6,7 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://twitter.com/EvergenIO" target="_blank">
+  <a href="https://twitter.com/EvergeneIO" target="_blank">
     <img alt="Twitter: EvergenIO" src="https://img.shields.io/twitter/follow/EvergenIO.svg?style=social" />
   </a>
 </p>
