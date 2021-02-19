@@ -1,6 +1,5 @@
 // endpoint = filename
 
-
 module.exports = {
     type: "get",
     execute: async (req, res, endpoint, tools) => {
