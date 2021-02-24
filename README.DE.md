@@ -33,8 +33,7 @@ app.get('/', async (req, res) => {
     res.send('hello world')
 });
 ```
-
-hier kannst du dann auf http://localhost:3000 gehen und die Route testen
+Nun kannst du die `app.js` Starten und auf http://localhost:3000 gehen und die Route testen.
 
 Falls es dich mehr Interessiert gehe doch auf https://expressjs.com/de
 
@@ -107,9 +106,9 @@ app.get('/', async (req, res) => {
 
 app.listen(3000, () => console.info(`Listening on port 3000`));
 ```
-hier kannst du dann auf http://localhost:3000 gehen und die Route testen
+Nun kannst du die `app.js` Starten und auf http://localhost:3000 gehen und die Route testen.
 
-Nun kannst du entweder immer die Route bearbeiten die du nun erstellt hast oder du kannst neue erstellen um weiter zu testen!
+Hier kannst du entweder immer die Route bearbeiten die du nun erstellt hast oder du kannst neue erstellen um weiter zu testen!
 
 # Wie erstelle ich einen Community Endpoint für Evergene
 Wenn du schon fleißig getestet hast wirst du Express langsam aber gut verstehen.
