@@ -149,4 +149,7 @@ module.exports = {
 ```
 
 # How do I put my endpoint online?
+Since the whole system is currently in beta everything has to be done manually (by us as well as by you).
+First, go to Github and fork our [repository](https://github.com/EvergeneIO/community-endpoints).
+
 Then you clone the repository on your PC and copy the folder you just created into the root directory, when you are ready you push the whole thing to your forked repository and create a pull request.
