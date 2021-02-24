@@ -34,6 +34,8 @@ app.get('/', async (req, res) => {
 });
 ```
 
+hier kannst du dann auf http://localhost:3000 gehen und die Route testen
+
 Falls es dich mehr Interessiert gehe doch auf https://expressjs.com/de
 
 # Wie erstelle ich einen API Endpunkt der funktioniert?
@@ -105,6 +107,7 @@ app.get('/', async (req, res) => {
 
 app.listen(3000, () => console.info(`Listening on port 3000`));
 ```
+hier kannst du dann auf http://localhost:3000 gehen und die Route testen
 
 Nun kannst du entweder immer die Route bearbeiten die du nun erstellt hast oder du kannst neue erstellen um weiter zu testen!
 
