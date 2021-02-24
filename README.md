@@ -126,7 +126,7 @@ module.exports = {
 ```
 Our system allows you to create a folder with your functions/files etc that is not visible to the API.
 
-We create this folder now, the folder must be named `inv
+We create this folder now, the folder must be named `inv`
 After you have created the folder you can put your `output.json` in it.
 Now we have to define the `output.json`, we do this above the `module.exports`.
 ```js
